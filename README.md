@@ -1,1 +1,1 @@
-# JavaScript-dynamic-elements-events
+JavaSript Dynamic Elements and Events
